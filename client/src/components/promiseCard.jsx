@@ -9,4 +9,4 @@ export default function promiseCard({title,description,Icon}) {
       <p>{description}</p>
     </div>
   )
-} 
+}  
