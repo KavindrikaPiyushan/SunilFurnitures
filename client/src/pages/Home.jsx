@@ -72,7 +72,7 @@ export default function Home() {
     
     <div className="ourPromise">
         <div className="promiseCover">
-        <PromiseCard title={"Quality"}  description={"Here at Gandhara we never compromise on quality; whether it be the workmanship or the raw materials that make our products, everything we do is to the best possible standard."}  icons={FaAward}/>
+        <PromiseCard title={"Quality"}  description={"Here at Gandhara we never compromise on quality; whether it be the workmanship or the raw materials that make our products, everything we do is to the best possible standard."}  Icon={FaAward}/>
         <FaAward/>
         </div>
     </div>
